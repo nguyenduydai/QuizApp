@@ -1,0 +1,12 @@
+{
+    "translation":{
+        "homepage":{
+            "title1":"There are a better way to ask",
+            "title2":"Having the translations in our i18n.js file works, but is not that suitable to work with, for translators. Let's separate the translations from the code and pleace them in dedicated json files.",
+            "title3":{
+                "login": "Get's started. It is free",
+                "doquiz":"Doing Quiz Now"  
+            }
+        }
+    }
+}

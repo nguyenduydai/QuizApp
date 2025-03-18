@@ -1,0 +1,10 @@
+{
+        "homepage":{
+            "title1":"Có nhiều cách tốt để hỏi",
+            "title2":"Việc có các bản dịch trong tệp i18n.js của chúng tôi hoạt động nhưng không phù hợp để làm việc với người dịch. Hãy tách các bản dịch khỏi mã và sắp xếp chúng vào các tệp json chuyên dụng",
+            "title3":{
+                "login": "Hãy bắt đầu. Nó miễn phí",
+                "doquiz": "Làm bài thi ngay"
+            }
+        }
+}
